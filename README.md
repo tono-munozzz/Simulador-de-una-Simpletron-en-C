@@ -17,7 +17,7 @@ Primero se realizo la Funcion de Profundidad de anidamientos para verficar que t
 ### **Instriccones de compilación**
 El proyecto son archivos en C estándar, por lo que no requiere librerías externas. No es necesario enlazar librerías adicionales (-lm, -lpthread, etc.); solo se usa la biblioteca estándar de C (stdio.h, stdlib.h, string.h, ctype.h, etc.).
 
-### **Instrucciones de ejecucióm**
+### **Instrucciones de ejecución**
 El compilador funciona de dos formas, dependiendo de si existe el archivo de entrada programa.simple en el mismo directorio que el ejecutable, en el caso de que no se encuentre usted mismo tendra que poner el codigo linea por linea.
 
 1. Modo Archivo
