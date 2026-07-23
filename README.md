@@ -21,15 +21,15 @@ El proyecto son archivos en C estándar, por lo que no requiere librerías exter
 El compilador funciona de dos formas, dependiendo de si existe el archivo de entrada programa.simple en el mismo directorio que el ejecutable, en el caso de que no se encuentre usted mismo tendra que poner el codigo linea por linea.
 
 1. Modo Archivo
-   1. Cargue el archivo `programa.simple` en el mismo directorio
-   2. Ejecute el programa
-   3. Si la compilación es exitosa en el mismo directorio le dara la traduccion a SML con el nombre de archivo `prgrama.sml`
+   1. Cargue el archivo `programa.simple` en el mismo directorio (en la carpeta de evidencias se encuentra otra carpeta donde se tienen algunos programas para realizar las pruebas unicamente hay que cambiar el nombre del arhivo a`programa.simple`).
+   3. Ejecute el programa.
+   4. Si la compilación es exitosa en el mismo directorio le dara la traduccion a SML con el nombre de archivo `prgrama.sml`.
 
 2. Modo Manual
    1. Si no se encuentra el archivo `prgrama.simple` se ejecutara el programa.
    2. Escriba el codigo linea por linea.
-   3. Finalice escribiendo 'fin' al final del codigo
-   4. Se hara la compilación y se cargara en el mismo repositorio el `programa.sml`
+   3. Finalice escribiendo 'fin' al final del codigo.
+   4. Se hara la compilación y se cargara en el mismo repositorio el `programa.sml`.
 
 ### **Ejemplos de entrada y salida**
 
