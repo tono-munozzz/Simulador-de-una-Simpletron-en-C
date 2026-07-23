@@ -1,0 +1,10 @@
+10 rem Sumatoria de Arreglo
+20 let s = 0
+21 let i = 0
+30 if i == 10 goto 70
+40 input x
+50 let s = s + x
+60 let i = i + 1
+61 goto 30
+70 print s
+80 end

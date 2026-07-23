@@ -1,0 +1,9 @@
+10 rem Producto de Impares
+20 let p = 1
+21 let i = 1
+30 if i > 9 goto 60
+40 let p = p * i
+50 let i = i + 2
+51 goto 30
+60 print p
+70 end

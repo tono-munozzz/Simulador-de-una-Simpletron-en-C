@@ -1,0 +1,9 @@
+10 rem Suma de Pares
+20 let s = 0
+21 let i = 2
+30 if i > 30 goto 60
+40 let s = s + i
+50 let i = i + 2
+51 goto 30
+60 print s
+70 end

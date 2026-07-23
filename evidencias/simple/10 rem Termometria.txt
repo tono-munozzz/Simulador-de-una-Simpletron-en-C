@@ -1,0 +1,6 @@
+10 rem Termometria
+20 input c
+30 let k = c * 9 / 5
+31 let f = k + 32
+40 print f
+50 end

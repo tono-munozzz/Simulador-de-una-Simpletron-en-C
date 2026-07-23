@@ -1,0 +1,8 @@
+10 rem Programa media de 3
+20 input a
+21 input b
+22 input c
+30 let k = a + b + c
+31 let r = k / 3
+40 print r
+50 end
